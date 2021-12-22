@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "411fb70c47c1eb90796a",
-    "url": "/Code-Indentator/static/js/main.411fb70c.chunk.js"
+    "revision": "7307aa3409c491039597",
+    "url": "/Code-Indentator/static/js/main.7307aa34.chunk.js"
   },
   {
     "revision": "ce05c2d905fadebb499c",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/Code-Indentator/static/js/runtime~main.80dcc332.js"
   },
   {
-    "revision": "4547b83e4d863b90f72327ed1a316afd",
+    "revision": "57477ce6441d51d27f69aa2c6182cc33",
     "url": "/Code-Indentator/index.html"
   }
 ];
